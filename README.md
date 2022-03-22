@@ -1,4 +1,4 @@
-### Hi, I'm Farzan 👋
+### Hi, I'm Farzan <img src="https://raw.githubusercontent.com/farzanali/farzanali/main/wave.gif">
 
 <!--
 **FarzanAli/FarzanAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
