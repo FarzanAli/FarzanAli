@@ -12,4 +12,4 @@ Second year studying <a  href="https://future.mcmaster.ca/programs/computer-scie
 I like ⚽🏓🏐🏋️‍♂️🏊‍♂️⛳🎾
 
 #### Connect:
-<img  src="https://raw.githubusercontent.com/farzanali/farzanali/main/media/linkedin.png"  href="https://www.linkedin.com/in/farzan-ali/" width="40px">&nbsp;<img  src="https://raw.githubusercontent.com/farzanali/farzanali/main/media/gmail.png"  href="mailto:faisaf2@mcmaster.ca" width="40px">
+<img  src="https://raw.githubusercontent.com/farzanali/farzanali/main/media/linkedin.png"  href="https://www.linkedin.com/in/farzan-ali/" target="_blank" width="40px">&nbsp;<img  src="https://raw.githubusercontent.com/farzanali/farzanali/main/media/gmail.png"  href="mailto:faisaf2@mcmaster.ca" target="_blank" width="40px">
