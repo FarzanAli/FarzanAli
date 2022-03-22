@@ -13,5 +13,4 @@ I like ⚽🏓🏐🏋️‍♂️🏊‍♂️⛳🎾
 
 ### Connect With me:
 
-<img  src="https://raw.githubusercontent.com/farzanali/farzanali/main/media/linkedin.png"  href="https://www.linkedin.com/in/farzan-ali/">
-<img  src="https://raw.githubusercontent.com/farzanali/farzanali/main/media/gmail.png"  href="mailto:faisaf2@mcmaster.ca">
+<img  src="https://raw.githubusercontent.com/farzanali/farzanali/main/media/linkedin.png"  href="https://www.linkedin.com/in/farzan-ali/">&nbsp;<img  src="https://raw.githubusercontent.com/farzanali/farzanali/main/media/gmail.png"  href="mailto:faisaf2@mcmaster.ca">
