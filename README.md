@@ -13,6 +13,9 @@
 <br>
 
 ### I like ⚽🏓🏐🏋️‍♂️🏊‍♂️⛳🎾
+<br>
+
+[![Farzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarzanAli)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect:
 [<img src="https://raw.githubusercontent.com/farzanali/farzanali/main/media/linkedin.png" width="40px">](https://www.linkedin.com/in/farzan-ali/)
