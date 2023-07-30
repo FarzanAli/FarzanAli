@@ -3,7 +3,7 @@
 
 # Hi, I'm Farzan <img src="https://raw.githubusercontent.com/farzanali/farzanali/main/media/wave.gif"  height="30px" width="30px">
 
-### Third year studying <a  href="https://future.mcmaster.ca/programs/computer-science/">Computer Science at McMaster University</a>  
+### Fourth year studying <a  href="https://future.mcmaster.ca/programs/computer-science/">Computer Science at McMaster University</a>  
 <br>
 
 ## Technical Skills ⚡
